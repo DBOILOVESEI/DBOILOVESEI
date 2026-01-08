@@ -1,4 +1,4 @@
-[](https://pbs.twimg.com/media/Gg1AO_QaMAMYTBm?format=jpg&name=900x900)
+![](https://pbs.twimg.com/media/Gg1AO_QaMAMYTBm?format=jpg&name=900x900)
 
 # 💫 About Me:
 Trying different things
