@@ -4,8 +4,8 @@
 It's a me, dboi.
 
 ## Socials:
-[![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat-square)](https://youtube.com/@db_oi) 
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square)]
+[![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat-square)](https://youtube.com/@db_oi) </br>
+![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square) (Private for now)
 
 ## Tech Stack:
 # 1. Main Stack
