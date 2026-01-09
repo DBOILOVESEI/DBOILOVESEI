@@ -1,5 +1,4 @@
-![](https://avatars.githubusercontent.com/u/121675944?v=4)
-[![PFP link]()](https://x.com/asirisenpai/status/1877227308852924867)
+[![](https://avatars.githubusercontent.com/u/121675944?v=4)](https://x.com/asirisenpai/status/1877227308852924867)
 
 It's a me, dboi.
 
