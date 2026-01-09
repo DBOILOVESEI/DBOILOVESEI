@@ -1,10 +1,10 @@
-![](https://media.discordapp.net/attachments/1020304614228234252/1168510841604296745/1696581375842.gif?ex=69623706&is=6960e586&hm=071aba4996eae008c35fbaab522e6aecbfb7e21e355b0331a0328243ebb4becc&)
-</br>
-![PFP Source](https://x.com/asirisenpai/status/1877227308852924867)
-</br>
 ![](https://cdn.discordapp.com/attachments/1040205961358475334/1458034401345671215/unnamed.webp?ex=6962205a&is=6960ceda&hm=2a78293d50ade37136f0c06469537a8514bdff8e77ba23b9c4ce8936886a58a1&)
 </br>
+![](https://media.discordapp.net/attachments/1020304614228234252/1168510841604296745/1696581375842.gif?ex=69623706&is=6960e586&hm=071aba4996eae008c35fbaab522e6aecbfb7e21e355b0331a0328243ebb4becc&)
+</br>
 It's a me, dboi.
+![PFP Source](https://x.com/asirisenpai/status/1877227308852924867)
+</br>
 
 # Socials:
 ### [![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat-square)](https://youtube.com/@db_oi) </br>
