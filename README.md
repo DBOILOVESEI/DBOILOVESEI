@@ -9,15 +9,16 @@ It's a me, dboi.
 
 # Tech Stack:
 ## Main Stack
-### ![Roblox Studio Badge](https://img.shields.io/badge/Roblox%20Studio-00A2FF?logo=robloxstudio&logoColor=fff&style=flat-square)
-### ![Luau](https://img.shields.io/badge/Luau-00A2FF?logo=luau&logoColor=fff&style=for-the-badge)
-### ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+### [![Roblox Studio Badge](https://img.shields.io/badge/Roblox%20Studio-00A2FF?logo=robloxstudio&logoColor=fff&style=flat-square)](https://www.roblox.com/users/517883818/profile)
+### [![Luau](https://img.shields.io/badge/Luau-00A2FF?logo=luau&logoColor=fff&style=for-the-badge)](https://www.roblox.com/users/517883818/profile)
+### [![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.roblox.com/users/517883818/profile)
 
 ## From Time to Time
 ### ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ### ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ### ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ### ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### ![Krita Badge](https://img.shields.io/badge/Krita-3BABFF?logo=krita&logoColor=fff&style=flat-square)
 
 ## Only When Necessary
 ### ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -25,15 +26,14 @@ It's a me, dboi.
 ### ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
 ## Platforms
-![Roblox Badge](https://img.shields.io/badge/Roblox-000?logo=roblox&logoColor=fff&style=flat-square)
-![Modrinth Badge](https://img.shields.io/badge/Modrinth-00AF5C?logo=modrinth&logoColor=fff&style=flat-square)
-![CurseForge Badge](https://img.shields.io/badge/CurseForge-F16436?logo=curseforge&logoColor=fff&style=flat-square)
+### ![Roblox Badge](https://img.shields.io/badge/Roblox-000?logo=roblox&logoColor=fff&style=flat-square)
+### ![Modrinth Badge](https://img.shields.io/badge/Modrinth-00AF5C?logo=modrinth&logoColor=fff&style=flat-square) (No account)
+### ![CurseForge Badge](https://img.shields.io/badge/CurseForge-F16436?logo=curseforge&logoColor=fff&style=flat-square) (No account)
 
 # My Setup
 ## OS
 ### ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat-square)
-### ![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=flat-square)
-(CachyOS, btw)
+### ![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=flat-square) (CachyOS, btw)
 
 ## WM/DE
 ### ![Hyprland Badge](https://img.shields.io/badge/Hyprland-58E1FF?logo=hyprland&logoColor=000&style=flat-square)
