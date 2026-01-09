@@ -8,7 +8,7 @@ It's a me, dboi.
 
 ## Tech Stack:
 # 1. Main Stack
-![Roblox Studio Badge](https://img.shields.io/badge/Roblox%20Studio-00A2FF?logo=robloxstudio&logoColor=fff&style=flat)
+![Roblox Studio Badge](https://img.shields.io/badge/Roblox%20Studio-00A2FF?logo=robloxstudio&logoColor=fff&style=flat-square)
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?logo=luau&logoColor=fff&style=for-the-badge)
 ![Roblox](https://img.shields.io/badge/Roblox-000?logo=roblox&logoColor=fff&style=flat)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
