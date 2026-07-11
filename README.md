@@ -4,8 +4,22 @@
 It's a me, dboi.
 ![PFP Source](https://x.com/asirisenpai/status/1877227308852924867)
 
-Skillset:
-![](https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg)
+---
+General skills:
+![git](https://www.readmecodegen.com/api/social-icon?name=git&size=96)
+![discorddotjs](https://www.readmecodegen.com/api/social-icon?name=discorddotjs&size=96)
+
+Programming languages:
+![lua](https://www.readmecodegen.com/api/social-icon?name=lua&size=96&color=%238b5cf6)
+![luau](https://www.readmecodegen.com/api/social-icon?name=luau&size=96&color=%238b5cf6)
+![python](https://www.readmecodegen.com/api/social-icon?name=python&size=96&color=%238b5cf6)
+![typescript](https://www.readmecodegen.com/api/social-icon?name=typescript&size=96&color=%238b5cf6)
+
+Currently learning:
+![godotengine](https://www.readmecodegen.com/api/social-icon?name=godotengine&size=96&color=%238b5cf6)
+![rust](https://www.readmecodegen.com/api/social-icon?name=rust&size=96&color=%238b5cf6)
+![linux](https://www.readmecodegen.com/api/social-icon?name=linux&size=96&color=%238b5cf6)
+![archlinux](https://www.readmecodegen.com/api/social-icon?name=archlinux&size=96&color=%238b5cf6)
 
 ---
 # 💰 You can help me by Donating
