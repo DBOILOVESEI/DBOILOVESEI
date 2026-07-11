@@ -4,7 +4,8 @@
 It's a me, dboi.
 ![PFP Source](https://x.com/asirisenpai/status/1877227308852924867)
 
-
+Skillset:
+![](https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg)
 
 ---
 # 💰 You can help me by Donating
