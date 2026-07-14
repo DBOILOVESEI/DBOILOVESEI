@@ -5,21 +5,21 @@ It's a me, dboi.
 ![PFP Source](https://x.com/asirisenpai/status/1877227308852924867)
 
 ---
-General skills:
-![git](https://www.readmecodegen.com/api/social-icon?name=git&size=48&color=%238b5cf6)
-![discorddotjs](https://www.readmecodegen.com/api/social-icon?name=discorddotjs&size=48&color=%238b5cf6)
+General skills:</br>
+![git](https://www.readmecodegen.com/api/social-icon?name=git&size=16&color=%238b5cf6)
+![discorddotjs](https://www.readmecodegen.com/api/social-icon?name=discorddotjs&size=16&color=%238b5cf6)
 
-Programming languages:
-![lua](https://www.readmecodegen.com/api/social-icon?name=lua&size=48&color=%238b5cf6)
-![luau](https://www.readmecodegen.com/api/social-icon?name=luau&size=48&color=%238b5cf6)
-![python](https://www.readmecodegen.com/api/social-icon?name=python&size=48&color=%238b5cf6)
-![typescript](https://www.readmecodegen.com/api/social-icon?name=typescript&size=48&color=%238b5cf6)
+Programming languages:</br>
+![lua](https://www.readmecodegen.com/api/social-icon?name=lua&size=16&color=%238b5cf6)
+![luau](https://www.readmecodegen.com/api/social-icon?name=luau&size=16&color=%238b5cf6)
+![python](https://www.readmecodegen.com/api/social-icon?name=python&size=16&color=%238b5cf6)
+![typescript](https://www.readmecodegen.com/api/social-icon?name=typescript&size=16&color=%238b5cf6)
 
-Currently learning:
-![godotengine](https://www.readmecodegen.com/api/social-icon?name=godotengine&size=48&color=%238b5cf6)
-![rust](https://www.readmecodegen.com/api/social-icon?name=rust&size=48&color=%238b5cf6)
-![linux](https://www.readmecodegen.com/api/social-icon?name=linux&size=48&color=%238b5cf6)
-![archlinux](https://www.readmecodegen.com/api/social-icon?name=archlinux&size=48&color=%238b5cf6)
+Currently learning:</br>
+![godotengine](https://www.readmecodegen.com/api/social-icon?name=godotengine&size=16&color=%238b5cf6)
+![rust](https://www.readmecodegen.com/api/social-icon?name=rust&size=16&color=%238b5cf6)
+![linux](https://www.readmecodegen.com/api/social-icon?name=linux&size=16&color=%238b5cf6)
+![archlinux](https://www.readmecodegen.com/api/social-icon?name=archlinux&size=16&color=%238b5cf6)
 
 ---
 # 💰 You can help me by Donating
