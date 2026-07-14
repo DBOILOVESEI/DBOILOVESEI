@@ -6,20 +6,20 @@ It's a me, dboi.
 
 ---
 General skills:</br>
-![git](https://www.readmecodegen.com/api/social-icon?name=git&size=16&color=%238b5cf6)
-![discorddotjs](https://www.readmecodegen.com/api/social-icon?name=discorddotjs&size=16&color=%238b5cf6)
+![git](https://www.readmecodegen.com/api/social-icon?name=git&size=32&color=%238b5cf6)
+![discorddotjs](https://www.readmecodegen.com/api/social-icon?name=discorddotjs&size=32&color=%238b5cf6)
 
 Programming languages:</br>
-![lua](https://www.readmecodegen.com/api/social-icon?name=lua&size=16&color=%238b5cf6)
-![luau](https://www.readmecodegen.com/api/social-icon?name=luau&size=16&color=%238b5cf6)
-![python](https://www.readmecodegen.com/api/social-icon?name=python&size=16&color=%238b5cf6)
-![typescript](https://www.readmecodegen.com/api/social-icon?name=typescript&size=16&color=%238b5cf6)
+![lua](https://www.readmecodegen.com/api/social-icon?name=lua&size=32&color=%238b5cf6)
+![luau](https://www.readmecodegen.com/api/social-icon?name=luau&size=32&color=%238b5cf6)
+![python](https://www.readmecodegen.com/api/social-icon?name=python&size=32&color=%238b5cf6)
+![typescript](https://www.readmecodegen.com/api/social-icon?name=typescript&size=32&color=%238b5cf6)
 
 Currently learning:</br>
-![godotengine](https://www.readmecodegen.com/api/social-icon?name=godotengine&size=16&color=%238b5cf6)
-![rust](https://www.readmecodegen.com/api/social-icon?name=rust&size=16&color=%238b5cf6)
-![linux](https://www.readmecodegen.com/api/social-icon?name=linux&size=16&color=%238b5cf6)
-![archlinux](https://www.readmecodegen.com/api/social-icon?name=archlinux&size=16&color=%238b5cf6)
+![godotengine](https://www.readmecodegen.com/api/social-icon?name=godotengine&size=32&color=%238b5cf6)
+![rust](https://www.readmecodegen.com/api/social-icon?name=rust&size=32&color=%238b5cf6)
+![linux](https://www.readmecodegen.com/api/social-icon?name=linux&size=32&color=%238b5cf6)
+![archlinux](https://www.readmecodegen.com/api/social-icon?name=archlinux&size=32&color=%238b5cf6)
 
 ---
 # 💰 You can help me by Donating
